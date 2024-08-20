@@ -5,7 +5,7 @@
 * Implemented a decomposition algorithm to isolate ECG components and analyze nonlinear distortions within the signal
 
 ## Results
-![alt text](https://github.com/SwaroopTha/Biopotential_Amplifier/main/all_filters.png "All Filters")
+![alt text](https://github.com/SwaroopTha/Biopotential_Amplifier/main/blob/all_filters.png "All Filters")
 
 ## Sources for recurrence computation:
 
