@@ -5,15 +5,15 @@
 * Implemented a decomposition algorithm to isolate ECG components and analyze nonlinear distortions within the signal
 
 ## Results
-![alt text](https://github.com/SwaroopTha/Biopotential_Amplifier/blob/main/all_filters.png?raw=true)
+![alt text](https://github.com/SwaroopTha/Biopotential_Amplifier/blob/main/images/all_filters.png?raw=true)
 
-![alt text](https://github.com/SwaroopTha/Biopotential_Amplifier/blob/main/imfs.png?raw=true)
+![alt text](https://github.com/SwaroopTha/Biopotential_Amplifier/blob/main/images/imfs.png?raw=true)
 
-![alt text](https://github.com/SwaroopTha/Biopotential_Amplifier/blob/main/phase_sync.png?raw=true)
+![alt text](https://github.com/SwaroopTha/Biopotential_Amplifier/blob/main/images/phase_sync.png?raw=true)
 
-![alt text](https://github.com/SwaroopTha/Biopotential_Amplifier/blob/main/state_space.png?raw=true)
+![alt text](https://github.com/SwaroopTha/Biopotential_Amplifier/blob/main/images/state_space.png?raw=true)
 
-![alt text](https://github.com/SwaroopTha/Biopotential_Amplifier/blob/main/state_space_raw.png?raw=true)
+![alt text](https://github.com/SwaroopTha/Biopotential_Amplifier/blob/main/images/state_space_raw.png?raw=true)
 
 
 
