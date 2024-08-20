@@ -1,5 +1,10 @@
 # Biopotential_Amplifier
 
+## Objective
+* Built a physical ECG circuit and applied 3rd-order Butterworth and Savitzky-Golay filters for denoising
+* Implemented a decomposition algorithm to isolate ECG components and analyze nonlinear distortions within the signal
+
+
 
 Sources for recurrence computation:
 
