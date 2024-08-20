@@ -9,9 +9,12 @@
 
 ![alt text](https://github.com/SwaroopTha/Biopotential_Amplifier/blob/main/imfs.png?raw=true)
 
+![alt text](https://github.com/SwaroopTha/Biopotential_Amplifier/blob/main/phase_sync.png?raw=true)
+
 ![alt text](https://github.com/SwaroopTha/Biopotential_Amplifier/blob/main/state_space.png?raw=true)
 
-![alt text](https://github.com/SwaroopTha/Biopotential_Amplifier/blob/main/phase_sync.png?raw=true)
+![alt text](https://github.com/SwaroopTha/Biopotential_Amplifier/blob/main/state_space_raw.png?raw=true)
+
 
 
 
