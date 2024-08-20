@@ -4,9 +4,10 @@
 * Built a physical ECG circuit and applied 3rd-order Butterworth and Savitzky-Golay filters for denoising
 * Implemented a decomposition algorithm to isolate ECG components and analyze nonlinear distortions within the signal
 
+## Results
+![alt text](https://github.com/SwaroopTha/Biopotential_Amplifier/main/all_filters.png "All Filters")
 
-
-Sources for recurrence computation:
+## Sources for recurrence computation:
 
 [1] H. Yang, “Multiscale Recurrence Quantification Analysis of Spatial Vectorcardiogram (VCG)
 Signals,” IEEE Transactions on Biomedical Engineering, Vol. 58, No. 2, p339-347, 2011
