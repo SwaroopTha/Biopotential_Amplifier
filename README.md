@@ -4,6 +4,8 @@
 * Built a physical ECG circuit and applied 3rd-order Butterworth and Savitzky-Golay filters for denoising
 * Implemented a decomposition algorithm to isolate ECG components and analyze nonlinear distortions within the signal
 
+## To Run, go through ```fin.mlx```
+
 ## Results
 ![alt text](https://github.com/SwaroopTha/Biopotential_Amplifier/blob/main/images/all_filters.png?raw=true)
 
